@@ -1,0 +1,5 @@
+# Ignore Changes to .env file
+.env
+
+# Ignore OS artifacts
+**/.DS_Store
